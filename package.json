@@ -1,0 +1,24 @@
+{
+  "name": "crud_practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KashishGoyal905/Crud_Practise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KashishGoyal905/Crud_Practise/issues"
+  },
+  "homepage": "https://github.com/KashishGoyal905/Crud_Practise#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3"
+  }
+}
